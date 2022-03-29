@@ -1,0 +1,2 @@
+# Financial-Analysis
+Regarding the example of Carlelon the real estate agency, this project was delivered by the consultancy business Quercis. Carleon was having trouble with the company's organisation and financial structure, therefore for this project, there was a built-in financial analysis with followed business guidance and a built-in dashboard that identifies the company's financial challenges and suggests viable remedies.
